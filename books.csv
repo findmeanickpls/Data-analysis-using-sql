@@ -1,0 +1,6 @@
+book_id,title,author_id,genre,price,publication_year
+1,1984,1,Dystopian,9.99,1949
+2,Harry Potter and the Sorcerer's Stone,2,Fantasy,14.99,1997
+3,The Hobbit,3,Fantasy,12.99,1937
+4,To Kill a Mockingbird,4,Fiction,7.99,1960
+5,Animal Farm,1,Satire,8.99,1945
